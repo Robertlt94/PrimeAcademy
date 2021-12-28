@@ -1,0 +1,42 @@
+<!DOCTYPE hmtl>
+<html>
+  <head>
+    
+    <link rel="stylesheet" href="Main.css"/>
+  </head>
+  
+  <body>
+    <div>
+    <h1>Robert Thao</h1>
+    </div>
+    
+    <div class="Contact">
+    <h2>Resume</h2>
+    <h3>(715)9350751 | rlthao94@gmail.com | Saint Paul, MN</h3>
+    </div>
+    
+    <div>
+    <h4>Experience:</h4>
+    </div>
+    
+    <div class="xp1">
+    <p>Front End Team Lead</p>
+    </div>
+    
+    <div>
+    <img src="https://www.referenceforbusiness.com/photos/management-levels-1.jpg"/>
+    <ol>
+      Responsibilities Include:
+      <li>Managing the Front End</li>
+       <li>Accounting responsibilities over loss and bank deposits
+    </ol>
+    <ul>
+      <li> Managed and supervised 30-40 associates directly</li>
+    </ul>
+    </div>
+    
+    <div class="footer">
+    <h6>Copyright Robert Thao 2021</h6>
+    </div>
+  </body>
+</html>
